@@ -1,1 +1,1 @@
-!(screen1.png)
+!Screen1
