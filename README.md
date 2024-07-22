@@ -1,1 +1,1 @@
-!screen1.png
+<img src="screen1.png">
